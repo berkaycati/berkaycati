@@ -18,7 +18,7 @@ while name == '':
     continue
     
     
-while soyisim == '':
+while surname == '':
     print('Enter a valid surname.')
     surname = str(input('Surname: ')) 
     continue 
