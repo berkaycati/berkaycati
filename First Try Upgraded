@@ -1,0 +1,18 @@
+## first try upgraded version
+
+def combine_names(name, surname):
+    return ' '.join([name, surname])
+
+name = str(input('Your name: '))
+surname = str(input('Surname: '))
+    
+while ((name == '') or (surname == '')):
+    print('Enter a valid name')
+    name = str(input('Your name: '))
+    surname = str(input('Surname: '))
+    
+else:
+    system_name = combine_names(name, surname)
+    print('You have entered your information into the system as {}*, welcome!'.format(system_name))
+
+## python ##
