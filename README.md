@@ -9,7 +9,6 @@ I want to advance professionally in the field of mobile app development for iOS.
 
 
 - 🌱 I’m currently learning 'Swift'
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me > berkaycati@hotmail.com
 
 <!---
