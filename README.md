@@ -8,7 +8,7 @@ Greetings I'm Berkay. I'm a Metallurgical and Materials Engineering Student at I
 I want to advance professionally in the field of mobile app development for iOS. 
 
 
-- 🌱 I’m currently learning 'Swift'
+- 🌱 I’m currently learning 'Swift' and 'React-Native'
 - 📫 How to reach me > berkaycati@hotmail.com
 
 <!---
